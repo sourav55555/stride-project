@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgBanner{
+    background-image: url("/bannernew.jpeg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
